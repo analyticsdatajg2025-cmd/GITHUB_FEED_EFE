@@ -32,9 +32,9 @@ BATCH_SIZE = 5000
 MAX_THREADS = 40
 
 # Recursos Gráficos
-TEMPLATE_PATH = os.path.join(ASSETS_DIR, "LC - PLANTILLA OFERTAS FEEDOM_PPL_.jpg")
-F_BOLD_PATH = "GlacialIndifference-Bold.otf"
-F_REG_PATH = "GlacialIndifference-Regular.otf"
+TEMPLATE_PATH = os.path.join(ASSETS_DIR, "EFE - PLANTILLA OFERTAS FEEDOM_PPL.jpg")
+F_BOLD_PATH = "Poppins-Bold.otf"
+F_REG_PATH = "Poppins-Medium_2.ttf"
 
 # Cargar Credenciales
 credentials_json = os.environ.get('GCP_CREDENTIALS')
