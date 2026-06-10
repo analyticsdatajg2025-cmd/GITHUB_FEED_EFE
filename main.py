@@ -32,7 +32,7 @@ BASE_URL_IMG = f"https://{GITHUB_USER}.github.io/{REPO_NAME}/{OUTPUT_DIR}/"
 FEED_URL = os.environ.get("FEED_URL", "https://www.efe.com.pe/media/feed/feed_fb_efe.csv")
 SHEET_ID = "1xSMWqMYVij8lEk-FyMtLefoVmqHK6PAQi6yNmUcXoWA"
 
-TEMPLATE_PATH = os.path.join(ASSETS_DIR, "GENERICO.jpg")
+TEMPLATE_PATH = os.path.join(ASSETS_DIR, "GENERICO_EFE.png")
 F_BOLD_PATH   = "Poppins-Bold.otf"
 F_REG_PATH    = "Poppins-Medium_2.ttf"
 
